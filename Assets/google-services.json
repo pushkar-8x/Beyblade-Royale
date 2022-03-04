@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "840378767886",
+    "project_id": "beyblade-game",
+    "storage_bucket": "beyblade-game.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840378767886:android:7f2b0fba5d26319b51fa5f",
+        "android_client_info": {
+          "package_name": "com.PlayAxis.Beyblade"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "840378767886-c43ggnmfd07s647vhe8cl539lgerlret.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrR7rxgoV5ww0LBhp7HsXtGQmmZa-nqVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "840378767886-c43ggnmfd07s647vhe8cl539lgerlret.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
